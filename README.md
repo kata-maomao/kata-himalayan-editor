@@ -1,7 +1,7 @@
 # 卡塔藏译 - 喜马拉雅编辑器 | Kata Himalayan Editor
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Kata Editor Banner" width="100%" />
+  <img src="./banner.png" alt="Kata Editor Banner" width="100%" />
   <p align="center">
     <strong><a href="#简体中文">简体中文</a> | <a href="#english">English</a></strong>
   </p>
