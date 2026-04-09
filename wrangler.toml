@@ -1,0 +1,6 @@
+name = "kata-editor"
+pages_build_output_dir = "dist"
+
+[vars]
+# Add any public environment variables here if needed
+# Note: Sensitive secrets should be added via the Cloudflare Dashboard.
