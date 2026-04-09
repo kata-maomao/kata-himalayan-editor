@@ -17,6 +17,9 @@
 
 **卡塔藏译 - 喜马拉雅编辑器** 是一款高性能、支持快捷键映射的藏文网页版富文本编辑器。它特别针对 iPad 外接键盘用户进行了优化，内置了经典的 **喜马拉雅 (Himalayan)** 键盘映射，让你无需在系统层安装繁琐的输入法，即可在浏览器中获得流畅的藏文输入体验。
 
+### 🌐 在线预览 (Live Demo)
+👉 **[点击访问: editor.bobtrans.top](https://editor.bobtrans.top)**
+
 ### 🚀 核心特性
 
 - 🏔️ **喜马拉雅映射**：完美支持经典喜马拉雅键盘映射逻辑。
@@ -51,6 +54,9 @@ npm run dev
 ### Introduction
 
 **Kata Himalayan Editor** is a high-performance Web-based rich-text editor for Tibetan. It is specifically optimized for iPad external keyboards, featuring a built-in **Himalayan** keyboard mapping, allowing users to type Tibetan fluently in any browser without installing native input methods.
+
+### 🌐 Live Demo
+👉 **[Visit: editor.bobtrans.top](https://editor.bobtrans.top)**
 
 ### 🚀 Features
 
